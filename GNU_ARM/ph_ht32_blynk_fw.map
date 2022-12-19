@@ -1,0 +1,1677 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+                              printf.o (__gnu_thumb1_case_sqi)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+                              ht32f5xxxx_ckcu.o (__gnu_thumb1_case_uqi)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                              ht32_board.o (__aeabi_uidiv)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x74 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_line    0x0000000000000000       0x8c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_str     0x0000000000000000       0x94 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 ht32_board.o
+ .data          0x0000000000000000        0x0 ht32_board.o
+ .bss           0x0000000000000000        0x0 ht32_board.o
+ .text._HT32F_DVB_ClockConfig
+                0x0000000000000000       0x5e ht32_board.o
+ .text.HT32F_DVB_LEDOn
+                0x0000000000000000       0x20 ht32_board.o
+ .text.HT32F_DVB_LEDOff
+                0x0000000000000000       0x20 ht32_board.o
+ .text.HT32F_DVB_LEDInit
+                0x0000000000000000       0x60 ht32_board.o
+ .text.HT32F_DVB_LEDToggle
+                0x0000000000000000       0x24 ht32_board.o
+ .text.HT32F_DVB_PBInit
+                0x0000000000000000       0xcc ht32_board.o
+ .text.HT32F_DVB_PBGetState
+                0x0000000000000000       0x24 ht32_board.o
+ .text.HT32F_DVB_COMInit
+                0x0000000000000000       0x64 ht32_board.o
+ .text.HT32F_DVB_BuzzerFun
+                0x0000000000000000      0x140 ht32_board.o
+ .text.HT32F_DVB_BuzzerOutputCmd
+                0x0000000000000000       0x14 ht32_board.o
+ .rodata.BUTTON_AFIO_MODE
+                0x0000000000000000        0x3 ht32_board.o
+ .rodata.BUTTON_GPIO_ID
+                0x0000000000000000        0x3 ht32_board.o
+ .rodata.BUTTON_GPIO_PIN
+                0x0000000000000000        0x6 ht32_board.o
+ .rodata.BUTTON_GPIO_PINNum
+                0x0000000000000000        0x3 ht32_board.o
+ .rodata.GPIO_PORT
+                0x0000000000000000       0x18 ht32_board.o
+ .rodata.LED_AFIO_MODE
+                0x0000000000000000        0x3 ht32_board.o
+ .rodata.LED_GPIO_ID
+                0x0000000000000000        0x3 ht32_board.o
+ .rodata.LED_GPIO_PIN
+                0x0000000000000000        0x6 ht32_board.o
+ .rodata.gCOMInfo
+                0x0000000000000000       0x10 ht32_board.o
+ .debug_info    0x0000000000000000     0x1de7 ht32_board.o
+ .debug_abbrev  0x0000000000000000      0x3a3 ht32_board.o
+ .debug_loc     0x0000000000000000      0x5d4 ht32_board.o
+ .debug_aranges
+                0x0000000000000000       0x68 ht32_board.o
+ .debug_ranges  0x0000000000000000       0x70 ht32_board.o
+ .debug_line    0x0000000000000000      0x59f ht32_board.o
+ .debug_str     0x0000000000000000     0x106c ht32_board.o
+ .comment       0x0000000000000000       0x34 ht32_board.o
+ .debug_frame   0x0000000000000000      0x110 ht32_board.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32_board.o
+ .text          0x0000000000000000        0x0 ht32_cm0plus_misc.o
+ .data          0x0000000000000000        0x0 ht32_cm0plus_misc.o
+ .bss           0x0000000000000000        0x0 ht32_cm0plus_misc.o
+ .text.DIV32_Init
+                0x0000000000000000       0x1c ht32_cm0plus_misc.o
+ .text.Rand_Init
+                0x0000000000000000       0x20 ht32_cm0plus_misc.o
+ .text.NVIC_SetVectorTable
+                0x0000000000000000       0x14 ht32_cm0plus_misc.o
+ .text.NVIC_LowPowerConfig
+                0x0000000000000000       0x18 ht32_cm0plus_misc.o
+ .text.NVIC_SetPendingSystemHandler
+                0x0000000000000000       0x10 ht32_cm0plus_misc.o
+ .text.SYSTICK_ClockSourceConfig
+                0x0000000000000000       0x1c ht32_cm0plus_misc.o
+ .text.SYSTICK_CounterCmd
+                0x0000000000000000       0x24 ht32_cm0plus_misc.o
+ .text.SYSTICK_IntConfig
+                0x0000000000000000       0x1c ht32_cm0plus_misc.o
+ .text.SYSTICK_SetReloadValue
+                0x0000000000000000        0xc ht32_cm0plus_misc.o
+ .text.RBIT     0x0000000000000000       0x1a ht32_cm0plus_misc.o
+ .bss.Rand_Get  0x0000000000000000        0x4 ht32_cm0plus_misc.o
+ .bss.SDIV32    0x0000000000000000        0x4 ht32_cm0plus_misc.o
+ .bss.UDIV32    0x0000000000000000        0x4 ht32_cm0plus_misc.o
+ .data.Data     0x0000000000000000      0x15c ht32_cm0plus_misc.o
+ .rodata.RandData
+                0x0000000000000000      0x134 ht32_cm0plus_misc.o
+ .rodata.RandData2
+                0x0000000000000000       0x24 ht32_cm0plus_misc.o
+ .debug_info    0x0000000000000000      0x5cd ht32_cm0plus_misc.o
+ .debug_abbrev  0x0000000000000000      0x209 ht32_cm0plus_misc.o
+ .debug_loc     0x0000000000000000      0x2a1 ht32_cm0plus_misc.o
+ .debug_aranges
+                0x0000000000000000       0x68 ht32_cm0plus_misc.o
+ .debug_ranges  0x0000000000000000       0x58 ht32_cm0plus_misc.o
+ .debug_line    0x0000000000000000      0x39f ht32_cm0plus_misc.o
+ .debug_str     0x0000000000000000      0x3af ht32_cm0plus_misc.o
+ .comment       0x0000000000000000       0x34 ht32_cm0plus_misc.o
+ .debug_frame   0x0000000000000000       0xc4 ht32_cm0plus_misc.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32_cm0plus_misc.o
+ .text          0x0000000000000000        0x0 ht32_retarget.o
+ .data          0x0000000000000000        0x0 ht32_retarget.o
+ .bss           0x0000000000000000        0x0 ht32_retarget.o
+ .text.RETARGET_Configuration
+                0x0000000000000000       0x1c ht32_retarget.o
+ .text.__backspace
+                0x0000000000000000        0x4 ht32_retarget.o
+ .text.fputc    0x0000000000000000        0x8 ht32_retarget.o
+ .text.fgetc    0x0000000000000000        0x8 ht32_retarget.o
+ .text._ttywrch
+                0x0000000000000000        0x8 ht32_retarget.o
+ .text._sys_exit
+                0x0000000000000000        0x2 ht32_retarget.o
+ .debug_info    0x0000000000000000      0xc22 ht32_retarget.o
+ .debug_abbrev  0x0000000000000000      0x2e4 ht32_retarget.o
+ .debug_loc     0x0000000000000000      0x14e ht32_retarget.o
+ .debug_aranges
+                0x0000000000000000       0x48 ht32_retarget.o
+ .debug_ranges  0x0000000000000000       0x38 ht32_retarget.o
+ .debug_line    0x0000000000000000      0x279 ht32_retarget.o
+ .debug_str     0x0000000000000000      0x66e ht32_retarget.o
+ .comment       0x0000000000000000       0x34 ht32_retarget.o
+ .debug_frame   0x0000000000000000       0x98 ht32_retarget.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32_retarget.o
+ .text          0x0000000000000000        0x0 ht32_serial.o
+ .data          0x0000000000000000        0x0 ht32_serial.o
+ .bss           0x0000000000000000        0x0 ht32_serial.o
+ .text.SERIAL_PutChar
+                0x0000000000000000       0x18 ht32_serial.o
+ .text.SERIAL_GetChar
+                0x0000000000000000       0x1c ht32_serial.o
+ .text.SERIAL_Flush
+                0x0000000000000000        0x2 ht32_serial.o
+ .debug_info    0x0000000000000000      0x239 ht32_serial.o
+ .debug_abbrev  0x0000000000000000      0x144 ht32_serial.o
+ .debug_loc     0x0000000000000000       0x20 ht32_serial.o
+ .debug_aranges
+                0x0000000000000000       0x30 ht32_serial.o
+ .debug_ranges  0x0000000000000000       0x20 ht32_serial.o
+ .debug_line    0x0000000000000000      0x194 ht32_serial.o
+ .debug_str     0x0000000000000000      0x216 ht32_serial.o
+ .comment       0x0000000000000000       0x34 ht32_serial.o
+ .debug_frame   0x0000000000000000       0x48 ht32_serial.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32_serial.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_01_it.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_01_it.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_01_it.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_adc.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_adc.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_adc.o
+ .text.ADC_DeInit
+                0x0000000000000000       0x1e ht32f5xxxx_adc.o
+ .text.ADC_Reset
+                0x0000000000000000        0xa ht32f5xxxx_adc.o
+ .text.ADC_Cmd  0x0000000000000000       0x14 ht32f5xxxx_adc.o
+ .text.ADC_RegularGroupConfig
+                0x0000000000000000       0x1a ht32f5xxxx_adc.o
+ .text.ADC_RegularChannelConfig
+                0x0000000000000000       0x2a ht32f5xxxx_adc.o
+ .text.ADC_RegularTrigConfig
+                0x0000000000000000        0xe ht32f5xxxx_adc.o
+ .text.ADC_SamplingTimeConfig
+                0x0000000000000000        0x4 ht32f5xxxx_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x0000000000000000       0x14 ht32f5xxxx_adc.o
+ .text.ADC_GetConversionData
+                0x0000000000000000        0xa ht32f5xxxx_adc.o
+ .text.ADC_IntConfig
+                0x0000000000000000       0x14 ht32f5xxxx_adc.o
+ .text.ADC_GetIntStatus
+                0x0000000000000000        0xe ht32f5xxxx_adc.o
+ .text.ADC_ClearIntPendingBit
+                0x0000000000000000        0x6 ht32f5xxxx_adc.o
+ .text.ADC_GetFlagStatus
+                0x0000000000000000        0xe ht32f5xxxx_adc.o
+ .text.ADC_AWDConfig
+                0x0000000000000000        0xc ht32f5xxxx_adc.o
+ .text.ADC_AWDSingleChannelConfig
+                0x0000000000000000       0x14 ht32f5xxxx_adc.o
+ .text.ADC_AWDThresholdsConfig
+                0x0000000000000000        0x8 ht32f5xxxx_adc.o
+ .text.ADC_PDMAConfig
+                0x0000000000000000       0x14 ht32f5xxxx_adc.o
+ .debug_info    0x0000000000000000      0xbb8 ht32f5xxxx_adc.o
+ .debug_abbrev  0x0000000000000000      0x270 ht32f5xxxx_adc.o
+ .debug_loc     0x0000000000000000      0x40d ht32f5xxxx_adc.o
+ .debug_aranges
+                0x0000000000000000       0xa0 ht32f5xxxx_adc.o
+ .debug_ranges  0x0000000000000000       0x90 ht32f5xxxx_adc.o
+ .debug_line    0x0000000000000000      0x46c ht32f5xxxx_adc.o
+ .debug_str     0x0000000000000000      0x522 ht32f5xxxx_adc.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_adc.o
+ .debug_frame   0x0000000000000000      0x148 ht32f5xxxx_adc.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_adc.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_bftm.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_bftm.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_bftm.o
+ .text.BFTM_DeInit
+                0x0000000000000000       0x44 ht32f5xxxx_bftm.o
+ .text.BFTM_EnaCmd
+                0x0000000000000000       0x14 ht32f5xxxx_bftm.o
+ .text.BFTM_SetCompare
+                0x0000000000000000        0x4 ht32f5xxxx_bftm.o
+ .text.BFTM_GetCompare
+                0x0000000000000000        0x4 ht32f5xxxx_bftm.o
+ .text.BFTM_SetCounter
+                0x0000000000000000        0x4 ht32f5xxxx_bftm.o
+ .text.BFTM_GetCounter
+                0x0000000000000000        0x4 ht32f5xxxx_bftm.o
+ .text.BFTM_OneShotModeCmd
+                0x0000000000000000       0x14 ht32f5xxxx_bftm.o
+ .text.BFTM_IntConfig
+                0x0000000000000000       0x14 ht32f5xxxx_bftm.o
+ .text.BFTM_GetFlagStatus
+                0x0000000000000000        0x8 ht32f5xxxx_bftm.o
+ .text.BFTM_ClearFlag
+                0x0000000000000000        0xe ht32f5xxxx_bftm.o
+ .debug_info    0x0000000000000000      0x7df ht32f5xxxx_bftm.o
+ .debug_abbrev  0x0000000000000000      0x229 ht32f5xxxx_bftm.o
+ .debug_loc     0x0000000000000000       0xda ht32f5xxxx_bftm.o
+ .debug_aranges
+                0x0000000000000000       0x68 ht32f5xxxx_bftm.o
+ .debug_ranges  0x0000000000000000       0x58 ht32f5xxxx_bftm.o
+ .debug_line    0x0000000000000000      0x302 ht32f5xxxx_bftm.o
+ .debug_str     0x0000000000000000      0x3e6 ht32f5xxxx_bftm.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_bftm.o
+ .debug_frame   0x0000000000000000       0xbc ht32f5xxxx_bftm.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_bftm.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_ckcu.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_ckcu.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_ckcu.o
+ .text.CKCU_HSECmd
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_HSICmd
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_PLLCmd
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_GetClockReadyStatus
+                0x0000000000000000       0x14 ht32f5xxxx_ckcu.o
+ .text.CKCU_WaitHSEReady
+                0x0000000000000000       0x20 ht32f5xxxx_ckcu.o
+ .text.CKCU_PLLInit
+                0x0000000000000000       0x34 ht32f5xxxx_ckcu.o
+ .text.CKCU_SysClockConfig
+                0x0000000000000000       0x2c ht32f5xxxx_ckcu.o
+ .text.CKCU_DeInit
+                0x0000000000000000       0x58 ht32f5xxxx_ckcu.o
+ .text.CKCU_GetSysClockSource
+                0x0000000000000000       0x10 ht32f5xxxx_ckcu.o
+ .text.CKCU_SetHCLKPrescaler
+                0x0000000000000000        0xc ht32f5xxxx_ckcu.o
+ .text.CKCU_SetCKREFPrescaler
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_SetADCnPrescaler
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_GetPLLFrequency
+                0x0000000000000000       0x38 ht32f5xxxx_ckcu.o
+ .text.CKCU_GetClocksFrequency
+                0x0000000000000000       0x54 ht32f5xxxx_ckcu.o
+ .text.CKCU_SetPeripPrescaler
+                0x0000000000000000       0x28 ht32f5xxxx_ckcu.o
+ .text.CKCU_GetPeripFrequency
+                0x0000000000000000       0x38 ht32f5xxxx_ckcu.o
+ .text.CKCU_CKMCmd
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_PSRCWKUPCmd
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_CKOUTConfig
+                0x0000000000000000       0x14 ht32f5xxxx_ckcu.o
+ .text.CKCU_GetIntStatus
+                0x0000000000000000       0x14 ht32f5xxxx_ckcu.o
+ .text.CKCU_ClearIntFlag
+                0x0000000000000000       0x10 ht32f5xxxx_ckcu.o
+ .text.CKCU_IntConfig
+                0x0000000000000000       0x20 ht32f5xxxx_ckcu.o
+ .text.CKCU_SleepClockConfig
+                0x0000000000000000       0x18 ht32f5xxxx_ckcu.o
+ .text.CKCU_IS_PLL_USED
+                0x0000000000000000       0x14 ht32f5xxxx_ckcu.o
+ .text.CKCU_IS_HSI_USED
+                0x0000000000000000       0x14 ht32f5xxxx_ckcu.o
+ .text.CKCU_IS_HSE_USED
+                0x0000000000000000       0x14 ht32f5xxxx_ckcu.o
+ .text.CKCU_MCUDBGConfig
+                0x0000000000000000       0x20 ht32f5xxxx_ckcu.o
+ .text.CKCU_BKISOCmd
+                0x0000000000000000       0x1c ht32f5xxxx_ckcu.o
+ .text.CKCU_HSIAutoTrimClkConfig
+                0x0000000000000000       0x14 ht32f5xxxx_ckcu.o
+ .text.CKCU_HSIAutoTrimCmd
+                0x0000000000000000       0x20 ht32f5xxxx_ckcu.o
+ .text.CKCU_HSIAutoTrimIsReady
+                0x0000000000000000       0x5c ht32f5xxxx_ckcu.o
+ .bss.ATCR.0    0x0000000000000000        0x4 ht32f5xxxx_ckcu.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_crc.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_crc.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_crc.o
+ .text.CRC_DeInit
+                0x0000000000000000       0x22 ht32f5xxxx_crc.o
+ .text.CRC_Init
+                0x0000000000000000       0x1c ht32f5xxxx_crc.o
+ .text.CRC_Process
+                0x0000000000000000       0x12 ht32f5xxxx_crc.o
+ .text.CRC_CCITT
+                0x0000000000000000       0x28 ht32f5xxxx_crc.o
+ .text.CRC_16   0x0000000000000000       0x28 ht32f5xxxx_crc.o
+ .text.CRC_32   0x0000000000000000       0x28 ht32f5xxxx_crc.o
+ .rodata.CSWTCH.10
+                0x0000000000000000        0x3 ht32f5xxxx_crc.o
+ .debug_info    0x0000000000000000      0x7fd ht32f5xxxx_crc.o
+ .debug_abbrev  0x0000000000000000      0x24f ht32f5xxxx_crc.o
+ .debug_loc     0x0000000000000000      0x3a6 ht32f5xxxx_crc.o
+ .debug_aranges
+                0x0000000000000000       0x48 ht32f5xxxx_crc.o
+ .debug_ranges  0x0000000000000000       0x38 ht32f5xxxx_crc.o
+ .debug_line    0x0000000000000000      0x2a9 ht32f5xxxx_crc.o
+ .debug_str     0x0000000000000000      0x3ae ht32f5xxxx_crc.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_crc.o
+ .debug_frame   0x0000000000000000       0x98 ht32f5xxxx_crc.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_crc.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_div.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_div.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_div.o
+ .text.DIV_DeInit
+                0x0000000000000000       0x1e ht32f5xxxx_div.o
+ .text.DIV_Div32
+                0x0000000000000000       0x1c ht32f5xxxx_div.o
+ .text.DIV_uDiv32
+                0x0000000000000000       0x84 ht32f5xxxx_div.o
+ .text.DIV_uGetLastRemainder
+                0x0000000000000000        0xc ht32f5xxxx_div.o
+ .text.DIV_Mod  0x0000000000000000       0x10 ht32f5xxxx_div.o
+ .text.DIV_IsDivByZero
+                0x0000000000000000       0x10 ht32f5xxxx_div.o
+ .bss.guRemainder
+                0x0000000000000000        0x4 ht32f5xxxx_div.o
+ .debug_info    0x0000000000000000      0x71f ht32f5xxxx_div.o
+ .debug_abbrev  0x0000000000000000      0x213 ht32f5xxxx_div.o
+ .debug_loc     0x0000000000000000      0x1c1 ht32f5xxxx_div.o
+ .debug_aranges
+                0x0000000000000000       0x48 ht32f5xxxx_div.o
+ .debug_ranges  0x0000000000000000       0x38 ht32f5xxxx_div.o
+ .debug_line    0x0000000000000000      0x35b ht32f5xxxx_div.o
+ .debug_str     0x0000000000000000      0x36b ht32f5xxxx_div.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_div.o
+ .debug_frame   0x0000000000000000       0x94 ht32f5xxxx_div.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_div.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_exti.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_exti.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_exti.o
+ .text.EXTI_DeInit
+                0x0000000000000000       0x34 ht32f5xxxx_exti.o
+ .text.EXTI_Init
+                0x0000000000000000       0x20 ht32f5xxxx_exti.o
+ .text.EXTI_IntConfig
+                0x0000000000000000       0x20 ht32f5xxxx_exti.o
+ .text.EXTI_WakeupEventConfig
+                0x0000000000000000       0x30 ht32f5xxxx_exti.o
+ .text.EXTI_WakeupEventIntConfig
+                0x0000000000000000       0x20 ht32f5xxxx_exti.o
+ .text.EXTI_ClearEdgeFlag
+                0x0000000000000000       0x10 ht32f5xxxx_exti.o
+ .text.EXTI_ClearWakeupFlag
+                0x0000000000000000       0x14 ht32f5xxxx_exti.o
+ .text.EXTI_GetEdgeFlag
+                0x0000000000000000       0x10 ht32f5xxxx_exti.o
+ .text.EXTI_GetEdgeStatus
+                0x0000000000000000       0x30 ht32f5xxxx_exti.o
+ .text.EXTI_GetWakeupFlagStatus
+                0x0000000000000000       0x18 ht32f5xxxx_exti.o
+ .text.EXTI_SWIntCmd
+                0x0000000000000000       0x1c ht32f5xxxx_exti.o
+ .text.EXTI_GetSWCmdStatus
+                0x0000000000000000       0x18 ht32f5xxxx_exti.o
+ .rodata.gEXTIn_IRQn
+                0x0000000000000000       0x10 ht32f5xxxx_exti.o
+ .debug_info    0x0000000000000000      0x74f ht32f5xxxx_exti.o
+ .debug_abbrev  0x0000000000000000      0x26c ht32f5xxxx_exti.o
+ .debug_loc     0x0000000000000000      0x22c ht32f5xxxx_exti.o
+ .debug_aranges
+                0x0000000000000000       0x78 ht32f5xxxx_exti.o
+ .debug_ranges  0x0000000000000000       0x68 ht32f5xxxx_exti.o
+ .debug_line    0x0000000000000000      0x3f8 ht32f5xxxx_exti.o
+ .debug_str     0x0000000000000000      0x641 ht32f5xxxx_exti.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_exti.o
+ .debug_frame   0x0000000000000000       0xd8 ht32f5xxxx_exti.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_exti.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_flash.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_flash.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_flash.o
+ .text.FLASH_SetWaitState
+                0x0000000000000000       0x34 ht32f5xxxx_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x0000000000000000       0x20 ht32f5xxxx_flash.o
+ .text.FLASH_SetRemappingMode
+                0x0000000000000000        0xc ht32f5xxxx_flash.o
+ .text.FLASH_GetOptionByteStatus
+                0x0000000000000000       0x30 ht32f5xxxx_flash.o
+ .text.FLASH_IntConfig
+                0x0000000000000000       0x18 ht32f5xxxx_flash.o
+ .text.FLASH_GetIntStatus
+                0x0000000000000000       0x14 ht32f5xxxx_flash.o
+ .text.FLASH_ClearIntFlag
+                0x0000000000000000        0xc ht32f5xxxx_flash.o
+ .text.FLASH_WaitForOperationEnd
+                0x0000000000000000       0x4c ht32f5xxxx_flash.o
+ .text.FLASH_ErasePage
+                0x0000000000000000       0x14 ht32f5xxxx_flash.o
+ .text.FLASH_EraseOptionByte
+                0x0000000000000000       0x10 ht32f5xxxx_flash.o
+ .text.FLASH_MassErase
+                0x0000000000000000       0x14 ht32f5xxxx_flash.o
+ .text.FLASH_ProgramWordData
+                0x0000000000000000       0x18 ht32f5xxxx_flash.o
+ .text.FLASH_ProgramOptionByte
+                0x0000000000000000       0x54 ht32f5xxxx_flash.o
+ .debug_info    0x0000000000000000      0x6f5 ht32f5xxxx_flash.o
+ .debug_abbrev  0x0000000000000000      0x292 ht32f5xxxx_flash.o
+ .debug_loc     0x0000000000000000      0x38c ht32f5xxxx_flash.o
+ .debug_aranges
+                0x0000000000000000       0x80 ht32f5xxxx_flash.o
+ .debug_ranges  0x0000000000000000       0x70 ht32f5xxxx_flash.o
+ .debug_line    0x0000000000000000      0x4a1 ht32f5xxxx_flash.o
+ .debug_str     0x0000000000000000      0x4c6 ht32f5xxxx_flash.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_flash.o
+ .debug_frame   0x0000000000000000      0x12c ht32f5xxxx_flash.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_flash.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_gpio.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_gpio.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0x64 ht32f5xxxx_gpio.o
+ .text.GPIO_InputConfig
+                0x0000000000000000       0x12 ht32f5xxxx_gpio.o
+ .text.GPIO_DriveConfig
+                0x0000000000000000       0x30 ht32f5xxxx_gpio.o
+ .text.GPIO_OpenDrainConfig
+                0x0000000000000000       0x12 ht32f5xxxx_gpio.o
+ .text.GPIO_ReadInBit
+                0x0000000000000000        0xc ht32f5xxxx_gpio.o
+ .text.GPIO_ReadInData
+                0x0000000000000000        0x6 ht32f5xxxx_gpio.o
+ .text.GPIO_ReadOutBit
+                0x0000000000000000        0xc ht32f5xxxx_gpio.o
+ .text.GPIO_ReadOutData
+                0x0000000000000000        0x6 ht32f5xxxx_gpio.o
+ .text.GPIO_WriteOutData
+                0x0000000000000000        0x4 ht32f5xxxx_gpio.o
+ .text.GPIO_PinLock
+                0x0000000000000000        0xc ht32f5xxxx_gpio.o
+ .text.GPIO_IsPortLocked
+                0x0000000000000000        0xc ht32f5xxxx_gpio.o
+ .text.GPIO_IsPinLocked
+                0x0000000000000000        0xc ht32f5xxxx_gpio.o
+ .text.GPIO_GetID
+                0x0000000000000000        0x8 ht32f5xxxx_gpio.o
+ .text.AFIO_DeInit
+                0x0000000000000000       0x20 ht32f5xxxx_gpio.o
+ .text.GPIO_DisableDebugPort
+                0x0000000000000000       0x48 ht32f5xxxx_gpio.o
+ .text.AFIO_EXTISourceConfig
+                0x0000000000000000       0x28 ht32f5xxxx_gpio.o
+ .text._GPIO_ClockControl
+                0x0000000000000000       0x34 ht32f5xxxx_gpio.o
+ .text._AFIO_ClockControl
+                0x0000000000000000       0x34 ht32f5xxxx_gpio.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_i2c.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_i2c.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_i2c.o
+ .text.I2C_DeInit
+                0x0000000000000000       0x54 ht32f5xxxx_i2c.o
+ .text.I2C_Init
+                0x0000000000000000       0xac ht32f5xxxx_i2c.o
+ .text.I2C_StructInit
+                0x0000000000000000       0x10 ht32f5xxxx_i2c.o
+ .text.I2C_Cmd  0x0000000000000000       0x14 ht32f5xxxx_i2c.o
+ .text.I2C_GenerateSTOP
+                0x0000000000000000        0xa ht32f5xxxx_i2c.o
+ .text.I2C_IntConfig
+                0x0000000000000000       0x12 ht32f5xxxx_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x0000000000000000       0x14 ht32f5xxxx_i2c.o
+ .text.I2C_AckCmd
+                0x0000000000000000       0x14 ht32f5xxxx_i2c.o
+ .text.I2C_SetOwnAddress
+                0x0000000000000000        0x4 ht32f5xxxx_i2c.o
+ .text.I2C_TargetAddressConfig
+                0x0000000000000000       0x18 ht32f5xxxx_i2c.o
+ .text.I2C_SendData
+                0x0000000000000000        0x4 ht32f5xxxx_i2c.o
+ .text.I2C_ReceiveData
+                0x0000000000000000        0x6 ht32f5xxxx_i2c.o
+ .text.I2C_ReadRegister
+                0x0000000000000000       0x16 ht32f5xxxx_i2c.o
+ .text.I2C_GetFlagStatus
+                0x0000000000000000        0xc ht32f5xxxx_i2c.o
+ .text.I2C_CheckStatus
+                0x0000000000000000        0xc ht32f5xxxx_i2c.o
+ .text.I2C_ClearFlag
+                0x0000000000000000        0x4 ht32f5xxxx_i2c.o
+ .text.I2C_SetSCLHighPeriod
+                0x0000000000000000        0x4 ht32f5xxxx_i2c.o
+ .text.I2C_SetSCLLowPeriod
+                0x0000000000000000        0x4 ht32f5xxxx_i2c.o
+ .text.I2C_PDMACmd
+                0x0000000000000000       0x12 ht32f5xxxx_i2c.o
+ .text.I2C_PDMANACKCmd
+                0x0000000000000000       0x1c ht32f5xxxx_i2c.o
+ .text.I2C_TimeOutCmd
+                0x0000000000000000       0x1c ht32f5xxxx_i2c.o
+ .text.I2C_SetTimeOutValue
+                0x0000000000000000        0xc ht32f5xxxx_i2c.o
+ .text.I2C_SetTimeOutPrescaler
+                0x0000000000000000        0xa ht32f5xxxx_i2c.o
+ .text.I2C_AddressMaskConfig
+                0x0000000000000000        0x4 ht32f5xxxx_i2c.o
+ .text.I2C_GetAddressBuffer
+                0x0000000000000000        0x6 ht32f5xxxx_i2c.o
+ .text.I2C_CombFilterCmd
+                0x0000000000000000       0x1c ht32f5xxxx_i2c.o
+ .text.I2C_SequentialFilterConfig
+                0x0000000000000000       0x7c ht32f5xxxx_i2c.o
+ .debug_info    0x0000000000000000      0xeba ht32f5xxxx_i2c.o
+ .debug_abbrev  0x0000000000000000      0x2f4 ht32f5xxxx_i2c.o
+ .debug_loc     0x0000000000000000      0x3ec ht32f5xxxx_i2c.o
+ .debug_aranges
+                0x0000000000000000       0xf0 ht32f5xxxx_i2c.o
+ .debug_ranges  0x0000000000000000       0xe0 ht32f5xxxx_i2c.o
+ .debug_line    0x0000000000000000      0x7d5 ht32f5xxxx_i2c.o
+ .debug_str     0x0000000000000000      0x800 ht32f5xxxx_i2c.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_i2c.o
+ .debug_frame   0x0000000000000000      0x1f8 ht32f5xxxx_i2c.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_i2c.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_mctm.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_mctm.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_mctm.o
+ .text.MCTM_ChNPolarityConfig
+                0x0000000000000000       0x16 ht32f5xxxx_mctm.o
+ .text.MCTM_ChannelNConfig
+                0x0000000000000000       0x1a ht32f5xxxx_mctm.o
+ .text.MCTM_CHMOECmd
+                0x0000000000000000       0x14 ht32f5xxxx_mctm.o
+ .text.MCTM_CHBRKCTRConfig
+                0x0000000000000000       0x30 ht32f5xxxx_mctm.o
+ .text.MCTM_CHBRKCTRConfig2
+                0x0000000000000000        0xe ht32f5xxxx_mctm.o
+ .text.MCTM_CHBRKCTRStructInit
+                0x0000000000000000       0x12 ht32f5xxxx_mctm.o
+ .text.MCTM_COMPRECmd
+                0x0000000000000000       0x1c ht32f5xxxx_mctm.o
+ .text.MCTM_COMUSConfig
+                0x0000000000000000       0x1c ht32f5xxxx_mctm.o
+ .debug_info    0x0000000000000000      0x7a0 ht32f5xxxx_mctm.o
+ .debug_abbrev  0x0000000000000000      0x1e0 ht32f5xxxx_mctm.o
+ .debug_loc     0x0000000000000000      0x225 ht32f5xxxx_mctm.o
+ .debug_aranges
+                0x0000000000000000       0x58 ht32f5xxxx_mctm.o
+ .debug_ranges  0x0000000000000000       0x48 ht32f5xxxx_mctm.o
+ .debug_line    0x0000000000000000      0x2f4 ht32f5xxxx_mctm.o
+ .debug_str     0x0000000000000000      0x516 ht32f5xxxx_mctm.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_mctm.o
+ .debug_frame   0x0000000000000000       0xa8 ht32f5xxxx_mctm.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_mctm.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_pdma.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_pdma.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_pdma.o
+ .text.PDMA_DeInit
+                0x0000000000000000       0x1e ht32f5xxxx_pdma.o
+ .text.PDMA_Config
+                0x0000000000000000       0x2c ht32f5xxxx_pdma.o
+ .text.PDMA_AddrConfig
+                0x0000000000000000       0x14 ht32f5xxxx_pdma.o
+ .text.PDMA_SrcAddrConfig
+                0x0000000000000000       0x10 ht32f5xxxx_pdma.o
+ .text.PDMA_DstAddrConfig
+                0x0000000000000000       0x10 ht32f5xxxx_pdma.o
+ .text.PDMA_TranSizeConfig
+                0x0000000000000000       0x14 ht32f5xxxx_pdma.o
+ .text.PDMA_IntConfig
+                0x0000000000000000       0x40 ht32f5xxxx_pdma.o
+ .text.PDMA_EnaCmd
+                0x0000000000000000       0x20 ht32f5xxxx_pdma.o
+ .text.PDMA_SwTrigCmd
+                0x0000000000000000       0x20 ht32f5xxxx_pdma.o
+ .text.PDMA_GetFlagStatus
+                0x0000000000000000       0x18 ht32f5xxxx_pdma.o
+ .text.PDMA_ClearFlag
+                0x0000000000000000       0x18 ht32f5xxxx_pdma.o
+ .text.PDMA_GetRemainBlkCnt
+                0x0000000000000000       0x14 ht32f5xxxx_pdma.o
+ .debug_info    0x0000000000000000      0xb0d ht32f5xxxx_pdma.o
+ .debug_abbrev  0x0000000000000000      0x2a9 ht32f5xxxx_pdma.o
+ .debug_loc     0x0000000000000000      0x2f4 ht32f5xxxx_pdma.o
+ .debug_aranges
+                0x0000000000000000       0x78 ht32f5xxxx_pdma.o
+ .debug_ranges  0x0000000000000000       0x68 ht32f5xxxx_pdma.o
+ .debug_line    0x0000000000000000      0x417 ht32f5xxxx_pdma.o
+ .debug_str     0x0000000000000000      0x524 ht32f5xxxx_pdma.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_pdma.o
+ .debug_frame   0x0000000000000000       0xf0 ht32f5xxxx_pdma.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_pdma.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_pwrcu.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_pwrcu.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_DeInit
+                0x0000000000000000       0x20 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_CheckReadyAccessed
+                0x0000000000000000       0x20 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_GetFlagStatus
+                0x0000000000000000        0xc ht32f5xxxx_pwrcu.o
+ .text.PWRCU_Sleep
+                0x0000000000000000       0x20 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_DeepSleep1
+                0x0000000000000000       0x58 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_DeepSleep2
+                0x0000000000000000       0x70 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_DeepSleep2Ex
+                0x0000000000000000       0xd4 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_PowerDown
+                0x0000000000000000       0x58 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_SetLVDS
+                0x0000000000000000       0x18 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_LVDCmd
+                0x0000000000000000       0x24 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_BODCmd
+                0x0000000000000000       0x1c ht32f5xxxx_pwrcu.o
+ .text.PWRCU_BODRISConfig
+                0x0000000000000000       0x1c ht32f5xxxx_pwrcu.o
+ .text.PWRCU_GetLVDFlagStatus
+                0x0000000000000000       0x10 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_GetBODFlagStatus
+                0x0000000000000000       0x10 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_GetDMOSStatus
+                0x0000000000000000       0x28 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_DMOSCmd
+                0x0000000000000000       0x28 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_LDOConfig
+                0x0000000000000000       0x40 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_V15RDYSourceConfig
+                0x0000000000000000       0x24 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_LVDIntWakeupConfig
+                0x0000000000000000       0x24 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_LVDEventWakeupConfig
+                0x0000000000000000       0x24 ht32f5xxxx_pwrcu.o
+ .text.PWRCU_WakeupPinCmd
+                0x0000000000000000       0x24 ht32f5xxxx_pwrcu.o
+ .debug_info    0x0000000000000000      0xd3a ht32f5xxxx_pwrcu.o
+ .debug_abbrev  0x0000000000000000      0x2e4 ht32f5xxxx_pwrcu.o
+ .debug_loc     0x0000000000000000      0x388 ht32f5xxxx_pwrcu.o
+ .debug_aranges
+                0x0000000000000000       0xc0 ht32f5xxxx_pwrcu.o
+ .debug_ranges  0x0000000000000000       0xb0 ht32f5xxxx_pwrcu.o
+ .debug_line    0x0000000000000000      0x906 ht32f5xxxx_pwrcu.o
+ .debug_str     0x0000000000000000      0x78e ht32f5xxxx_pwrcu.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_pwrcu.o
+ .debug_frame   0x0000000000000000      0x19c ht32f5xxxx_pwrcu.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_pwrcu.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_rstcu.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_rstcu.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_rstcu.o
+ .text.RSTCU_GetResetFlagStatus
+                0x0000000000000000       0x18 ht32f5xxxx_rstcu.o
+ .text.RSTCU_ClearResetFlag
+                0x0000000000000000       0x10 ht32f5xxxx_rstcu.o
+ .text.RSTCU_ClearAllResetFlag
+                0x0000000000000000        0xc ht32f5xxxx_rstcu.o
+ .text.RSTCU_PeripReset
+                0x0000000000000000       0x38 ht32f5xxxx_rstcu.o
+ .debug_info    0x0000000000000000      0x682 ht32f5xxxx_rstcu.o
+ .debug_abbrev  0x0000000000000000      0x1f1 ht32f5xxxx_rstcu.o
+ .debug_loc     0x0000000000000000      0x1fe ht32f5xxxx_rstcu.o
+ .debug_aranges
+                0x0000000000000000       0x38 ht32f5xxxx_rstcu.o
+ .debug_ranges  0x0000000000000000       0x28 ht32f5xxxx_rstcu.o
+ .debug_line    0x0000000000000000      0x201 ht32f5xxxx_rstcu.o
+ .debug_str     0x0000000000000000      0x3d5 ht32f5xxxx_rstcu.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_rstcu.o
+ .debug_frame   0x0000000000000000       0x60 ht32f5xxxx_rstcu.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_rstcu.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_rtc.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_rtc.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_rtc.o
+ .text.RTC_DeInit
+                0x0000000000000000       0x2c ht32f5xxxx_rtc.o
+ .text.RTC_ClockSourceConfig
+                0x0000000000000000       0x14 ht32f5xxxx_rtc.o
+ .text.RTC_LSESMConfig
+                0x0000000000000000       0x14 ht32f5xxxx_rtc.o
+ .text.RTC_LSECmd
+                0x0000000000000000       0x34 ht32f5xxxx_rtc.o
+ .text.RTC_CMPCLRCmd
+                0x0000000000000000       0x1c ht32f5xxxx_rtc.o
+ .text.RTC_SetPrescaler
+                0x0000000000000000       0x18 ht32f5xxxx_rtc.o
+ .text.RTC_GetPrescaler
+                0x0000000000000000       0x14 ht32f5xxxx_rtc.o
+ .text.RTC_Cmd  0x0000000000000000       0x1c ht32f5xxxx_rtc.o
+ .text.RTC_GetCounter
+                0x0000000000000000        0xc ht32f5xxxx_rtc.o
+ .text.RTC_SetCompare
+                0x0000000000000000        0xc ht32f5xxxx_rtc.o
+ .text.RTC_GetCompare
+                0x0000000000000000        0xc ht32f5xxxx_rtc.o
+ .text.RTC_WakeupConfig
+                0x0000000000000000       0x18 ht32f5xxxx_rtc.o
+ .text.RTC_IntConfig
+                0x0000000000000000        0x8 ht32f5xxxx_rtc.o
+ .text.RTC_GetFlagStatus
+                0x0000000000000000        0xc ht32f5xxxx_rtc.o
+ .text.RTC_OutConfig
+                0x0000000000000000       0x48 ht32f5xxxx_rtc.o
+ .text.RTC_OutCmd
+                0x0000000000000000       0x24 ht32f5xxxx_rtc.o
+ .text.RTC_GetOutStatus
+                0x0000000000000000       0x10 ht32f5xxxx_rtc.o
+ .debug_info    0x0000000000000000      0x705 ht32f5xxxx_rtc.o
+ .debug_abbrev  0x0000000000000000      0x278 ht32f5xxxx_rtc.o
+ .debug_loc     0x0000000000000000      0x151 ht32f5xxxx_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x98 ht32f5xxxx_rtc.o
+ .debug_ranges  0x0000000000000000       0x88 ht32f5xxxx_rtc.o
+ .debug_line    0x0000000000000000      0x48c ht32f5xxxx_rtc.o
+ .debug_str     0x0000000000000000      0x58a ht32f5xxxx_rtc.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_rtc.o
+ .debug_frame   0x0000000000000000      0x13c ht32f5xxxx_rtc.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_rtc.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_spi.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_spi.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_spi.o
+ .text.SPI_DeInit
+                0x0000000000000000       0x44 ht32f5xxxx_spi.o
+ .text.SPI_Init
+                0x0000000000000000       0x48 ht32f5xxxx_spi.o
+ .text.SPI_StructInit
+                0x0000000000000000       0x1c ht32f5xxxx_spi.o
+ .text.SPI_Cmd  0x0000000000000000       0x14 ht32f5xxxx_spi.o
+ .text.SPI_SELOutputCmd
+                0x0000000000000000       0x14 ht32f5xxxx_spi.o
+ .text.SPI_FIFOCmd
+                0x0000000000000000       0x1c ht32f5xxxx_spi.o
+ .text.SPI_SetDataLength
+                0x0000000000000000       0x10 ht32f5xxxx_spi.o
+ .text.SPI_SELModeConfig
+                0x0000000000000000       0x1c ht32f5xxxx_spi.o
+ .text.SPI_SoftwareSELCmd
+                0x0000000000000000       0x14 ht32f5xxxx_spi.o
+ .text.SPI_SendData
+                0x0000000000000000        0x4 ht32f5xxxx_spi.o
+ .text.SPI_ReceiveData
+                0x0000000000000000        0x6 ht32f5xxxx_spi.o
+ .text.SPI_SetTimeOutValue
+                0x0000000000000000        0x4 ht32f5xxxx_spi.o
+ .text.SPI_IntConfig
+                0x0000000000000000       0x12 ht32f5xxxx_spi.o
+ .text.SPI_GetFlagStatus
+                0x0000000000000000        0xc ht32f5xxxx_spi.o
+ .text.SPI_GetFIFOStatus
+                0x0000000000000000       0x16 ht32f5xxxx_spi.o
+ .text.SPI_ClearFlag
+                0x0000000000000000        0x4 ht32f5xxxx_spi.o
+ .text.SPI_FIFOTriggerLevelConfig
+                0x0000000000000000       0x24 ht32f5xxxx_spi.o
+ .text.SPI_PDMACmd
+                0x0000000000000000       0x12 ht32f5xxxx_spi.o
+ .text.SPI_DUALCmd
+                0x0000000000000000       0x14 ht32f5xxxx_spi.o
+ .text.SPI_GUARDTCmd
+                0x0000000000000000       0x14 ht32f5xxxx_spi.o
+ .text.SPI_GUARDTConfig
+                0x0000000000000000       0x14 ht32f5xxxx_spi.o
+ .text.SPI_SELHTConfig
+                0x0000000000000000        0xe ht32f5xxxx_spi.o
+ .debug_info    0x0000000000000000      0xc8b ht32f5xxxx_spi.o
+ .debug_abbrev  0x0000000000000000      0x27c ht32f5xxxx_spi.o
+ .debug_loc     0x0000000000000000      0x315 ht32f5xxxx_spi.o
+ .debug_aranges
+                0x0000000000000000       0xc8 ht32f5xxxx_spi.o
+ .debug_ranges  0x0000000000000000       0xb8 ht32f5xxxx_spi.o
+ .debug_line    0x0000000000000000      0x605 ht32f5xxxx_spi.o
+ .debug_str     0x0000000000000000      0x5e9 ht32f5xxxx_spi.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_spi.o
+ .debug_frame   0x0000000000000000      0x184 ht32f5xxxx_spi.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_spi.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_tm.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_tm.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_tm.o
+ .text._TM_CHx_Config
+                0x0000000000000000       0x48 ht32f5xxxx_tm.o
+ .text.TM_DeInit
+                0x0000000000000000       0x94 ht32f5xxxx_tm.o
+ .text.TM_TimeBaseInit
+                0x0000000000000000       0x4c ht32f5xxxx_tm.o
+ .text.TM_OutputInit
+                0x0000000000000000       0xb0 ht32f5xxxx_tm.o
+ .text.TM_TimeBaseStructInit
+                0x0000000000000000       0x18 ht32f5xxxx_tm.o
+ .text.TM_OutputStructInit
+                0x0000000000000000       0x12 ht32f5xxxx_tm.o
+ .text.TM_CaptureStructInit
+                0x0000000000000000       0x10 ht32f5xxxx_tm.o
+ .text.TM_Cmd   0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_PrescalerConfig
+                0x0000000000000000        0xa ht32f5xxxx_tm.o
+ .text.TM_CounterModeConfig
+                0x0000000000000000       0x20 ht32f5xxxx_tm.o
+ .text.TM_StiConfig
+                0x0000000000000000       0x20 ht32f5xxxx_tm.o
+ .text.TM_ItiExternalClockConfig
+                0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_ChExternalClockConfig
+                0x0000000000000000       0x2e ht32f5xxxx_tm.o
+ .text.TM_DecoderConfig
+                0x0000000000000000       0x44 ht32f5xxxx_tm.o
+ .text.TM_ForcedOREF
+                0x0000000000000000       0x18 ht32f5xxxx_tm.o
+ .text.TM_CRRPreloadCmd
+                0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_CHCCRPreloadConfig
+                0x0000000000000000       0x1c ht32f5xxxx_tm.o
+ .text.TM_ClearOREFConfig
+                0x0000000000000000       0x1c ht32f5xxxx_tm.o
+ .text.TM_ChPolarityConfig
+                0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_ImmActiveConfig
+                0x0000000000000000       0x1c ht32f5xxxx_tm.o
+ .text.TM_ChannelConfig
+                0x0000000000000000       0x18 ht32f5xxxx_tm.o
+ .text.TM_OutputModeConfig
+                0x0000000000000000       0x28 ht32f5xxxx_tm.o
+ .text.TM_UpdateCmd
+                0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_UEVG_IntConfig
+                0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_HallInterfaceCmd
+                0x0000000000000000       0x18 ht32f5xxxx_tm.o
+ .text.TM_SinglePulseModeCmd
+                0x0000000000000000       0x1c ht32f5xxxx_tm.o
+ .text.TM_MMSELConfig
+                0x0000000000000000       0x10 ht32f5xxxx_tm.o
+ .text.TM_SlaveModeConfig
+                0x0000000000000000       0x10 ht32f5xxxx_tm.o
+ .text.TM_TimSyncCmd
+                0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_SetCounter
+                0x0000000000000000        0x6 ht32f5xxxx_tm.o
+ .text.TM_SetCounterReload
+                0x0000000000000000        0x6 ht32f5xxxx_tm.o
+ .text.TM_SetCaptureCompare
+                0x0000000000000000        0xa ht32f5xxxx_tm.o
+ .text.TM_SetAsymmetricCompare
+                0x0000000000000000        0xa ht32f5xxxx_tm.o
+ .text.TM_CHPSCConfig
+                0x0000000000000000       0x1c ht32f5xxxx_tm.o
+ .text.TM_CaptureInit
+                0x0000000000000000       0x20 ht32f5xxxx_tm.o
+ .text.TM_PwmInputInit
+                0x0000000000000000       0x5c ht32f5xxxx_tm.o
+ .text.TM_CKDIVConfig
+                0x0000000000000000       0x14 ht32f5xxxx_tm.o
+ .text.TM_GetCaptureCompare
+                0x0000000000000000        0xa ht32f5xxxx_tm.o
+ .text.TM_GetCounter
+                0x0000000000000000        0x6 ht32f5xxxx_tm.o
+ .text.TM_GetPrescaler
+                0x0000000000000000        0x6 ht32f5xxxx_tm.o
+ .text.TM_GenerateEvent
+                0x0000000000000000        0x4 ht32f5xxxx_tm.o
+ .text.TM_GetFlagStatus
+                0x0000000000000000        0xc ht32f5xxxx_tm.o
+ .text.TM_ClearFlag
+                0x0000000000000000        0xa ht32f5xxxx_tm.o
+ .text.TM_IntConfig
+                0x0000000000000000       0x12 ht32f5xxxx_tm.o
+ .text.TM_GetIntStatus
+                0x0000000000000000       0x16 ht32f5xxxx_tm.o
+ .text.TM_ClearIntPendingBit
+                0x0000000000000000        0xa ht32f5xxxx_tm.o
+ .text.TM_InternalClockConfig
+                0x0000000000000000       0x10 ht32f5xxxx_tm.o
+ .text.TM_CHCCDSConfig
+                0x0000000000000000       0x1c ht32f5xxxx_tm.o
+ .text.TM_PDMAConfig
+                0x0000000000000000        0x8 ht32f5xxxx_tm.o
+ .debug_info    0x0000000000000000     0x1d8b ht32f5xxxx_tm.o
+ .debug_abbrev  0x0000000000000000      0x386 ht32f5xxxx_tm.o
+ .debug_loc     0x0000000000000000      0xfe3 ht32f5xxxx_tm.o
+ .debug_aranges
+                0x0000000000000000      0x190 ht32f5xxxx_tm.o
+ .debug_ranges  0x0000000000000000      0x180 ht32f5xxxx_tm.o
+ .debug_line    0x0000000000000000      0xdff ht32f5xxxx_tm.o
+ .debug_str     0x0000000000000000      0xe26 ht32f5xxxx_tm.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_tm.o
+ .debug_frame   0x0000000000000000      0x3d4 ht32f5xxxx_tm.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_tm.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_usart.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_usart.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_usart.o
+ .text.USART_DeInit
+                0x0000000000000000       0x88 ht32f5xxxx_usart.o
+ .text.USART_Init
+                0x0000000000000000       0x84 ht32f5xxxx_usart.o
+ .text.USART_StructInit
+                0x0000000000000000       0x12 ht32f5xxxx_usart.o
+ .text.USART_SendData
+                0x0000000000000000        0x4 ht32f5xxxx_usart.o
+ .text.USART_ReceiveData
+                0x0000000000000000        0x6 ht32f5xxxx_usart.o
+ .text.USART_GetFlagStatus
+                0x0000000000000000        0xc ht32f5xxxx_usart.o
+ .text.USART_GetIntStatus
+                0x0000000000000000        0xc ht32f5xxxx_usart.o
+ .text.USART_ClearFlag
+                0x0000000000000000        0x8 ht32f5xxxx_usart.o
+ .text.USART_IntConfig
+                0x0000000000000000       0x12 ht32f5xxxx_usart.o
+ .text.USART_TxRxCmd
+                0x0000000000000000       0x18 ht32f5xxxx_usart.o
+ .text.USART_PDMACmd
+                0x0000000000000000       0x12 ht32f5xxxx_usart.o
+ .text.USART_ForceBreakCmd
+                0x0000000000000000       0x1c ht32f5xxxx_usart.o
+ .text.USART_StickParityCmd
+                0x0000000000000000       0x1c ht32f5xxxx_usart.o
+ .text.USART_StickParityConfig
+                0x0000000000000000       0x20 ht32f5xxxx_usart.o
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_TXRXTLConfig
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_SetTimeOutValue
+                0x0000000000000000       0x10 ht32f5xxxx_usart.o
+ .text.USART_FIFOReset
+                0x0000000000000000        0x8 ht32f5xxxx_usart.o
+ .text.USART_GetFIFOStatus
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_HardwareFlowControlCmd
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_IrDACmd
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x16 ht32f5xxxx_usart.o
+ .text.USART_SetIrDAPrescaler
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_IrDADirectionConfig
+                0x0000000000000000       0x16 ht32f5xxxx_usart.o
+ .text.USART_IrDAInvtCmd
+                0x0000000000000000       0x18 ht32f5xxxx_usart.o
+ .text.USART_RS485TxEnablePolarityConfig
+                0x0000000000000000       0x16 ht32f5xxxx_usart.o
+ .text.USART_RS485NMMCmd
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_RS485AADCmd
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_SetAddressMatchValue
+                0x0000000000000000       0x14 ht32f5xxxx_usart.o
+ .text.USART_SynClockInit
+                0x0000000000000000       0x1a ht32f5xxxx_usart.o
+ .text.USART_SynClockStructInit
+                0x0000000000000000        0xc ht32f5xxxx_usart.o
+ .debug_info    0x0000000000000000      0xf8b ht32f5xxxx_usart.o
+ .debug_abbrev  0x0000000000000000      0x2be ht32f5xxxx_usart.o
+ .debug_loc     0x0000000000000000      0x56a ht32f5xxxx_usart.o
+ .debug_aranges
+                0x0000000000000000      0x110 ht32f5xxxx_usart.o
+ .debug_ranges  0x0000000000000000      0x100 ht32f5xxxx_usart.o
+ .debug_line    0x0000000000000000      0x7bb ht32f5xxxx_usart.o
+ .debug_str     0x0000000000000000      0x904 ht32f5xxxx_usart.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_usart.o
+ .debug_frame   0x0000000000000000      0x220 ht32f5xxxx_usart.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_usart.o
+ .text          0x0000000000000000        0x0 ht32f5xxxx_wdt.o
+ .data          0x0000000000000000        0x0 ht32f5xxxx_wdt.o
+ .bss           0x0000000000000000        0x0 ht32f5xxxx_wdt.o
+ .text.WDT_DeInit
+                0x0000000000000000       0x20 ht32f5xxxx_wdt.o
+ .text.WDT_Cmd  0x0000000000000000       0x24 ht32f5xxxx_wdt.o
+ .text.WDT_HaltConfig
+                0x0000000000000000       0x18 ht32f5xxxx_wdt.o
+ .text.WDT_ResetCmd
+                0x0000000000000000       0x24 ht32f5xxxx_wdt.o
+ .text.WDT_ProtectCmd
+                0x0000000000000000       0x1c ht32f5xxxx_wdt.o
+ .text.WDT_SetReloadValue
+                0x0000000000000000       0x14 ht32f5xxxx_wdt.o
+ .text.WDT_GetReloadValue
+                0x0000000000000000       0x10 ht32f5xxxx_wdt.o
+ .text.WDT_SetDeltaValue
+                0x0000000000000000       0x14 ht32f5xxxx_wdt.o
+ .text.WDT_GetDeltaValue
+                0x0000000000000000       0x10 ht32f5xxxx_wdt.o
+ .text.WDT_SetPrescaler
+                0x0000000000000000       0x14 ht32f5xxxx_wdt.o
+ .text.WDT_GetPrescaler
+                0x0000000000000000       0x14 ht32f5xxxx_wdt.o
+ .text.WDT_Restart
+                0x0000000000000000       0x10 ht32f5xxxx_wdt.o
+ .text.WDT_GetFlagStatus
+                0x0000000000000000       0x14 ht32f5xxxx_wdt.o
+ .text.WDT_LockCmd
+                0x0000000000000000       0x24 ht32f5xxxx_wdt.o
+ .text.WDT_SourceConfig
+                0x0000000000000000       0x14 ht32f5xxxx_wdt.o
+ .debug_info    0x0000000000000000      0x888 ht32f5xxxx_wdt.o
+ .debug_abbrev  0x0000000000000000      0x2a2 ht32f5xxxx_wdt.o
+ .debug_loc     0x0000000000000000      0x135 ht32f5xxxx_wdt.o
+ .debug_aranges
+                0x0000000000000000       0x90 ht32f5xxxx_wdt.o
+ .debug_ranges  0x0000000000000000       0x80 ht32f5xxxx_wdt.o
+ .debug_line    0x0000000000000000      0x3d0 ht32f5xxxx_wdt.o
+ .debug_str     0x0000000000000000      0x459 ht32f5xxxx_wdt.o
+ .comment       0x0000000000000000       0x34 ht32f5xxxx_wdt.o
+ .debug_frame   0x0000000000000000      0x110 ht32f5xxxx_wdt.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ht32f5xxxx_wdt.o
+ .text          0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 main.o
+ .bss           0x0000000000000000        0x0 main.o
+ .text          0x0000000000000000        0x0 printf.o
+ .data          0x0000000000000000        0x0 printf.o
+ .bss           0x0000000000000000        0x0 printf.o
+ .text.PutRepChar
+                0x0000000000000000       0x18 printf.o
+ .text.PutString
+                0x0000000000000000       0x1a printf.o
+ .text.printf   0x0000000000000000      0x1e2 printf.o
+ .text.puts     0x0000000000000000       0x14 printf.o
+ .debug_info    0x0000000000000000      0xf25 printf.o
+ .debug_abbrev  0x0000000000000000      0x3b4 printf.o
+ .debug_loc     0x0000000000000000      0x8ba printf.o
+ .debug_aranges
+                0x0000000000000000       0x38 printf.o
+ .debug_ranges  0x0000000000000000       0x88 printf.o
+ .debug_line    0x0000000000000000      0x498 printf.o
+ .debug_str     0x0000000000000000      0x634 printf.o
+ .comment       0x0000000000000000       0x34 printf.o
+ .debug_frame   0x0000000000000000       0x84 printf.o
+ .ARM.attributes
+                0x0000000000000000       0x2c printf.o
+ .text          0x0000000000000000       0x14 startup_ht32f5xxxx_gcc_01.o
+ .data          0x0000000000000000        0x0 startup_ht32f5xxxx_gcc_01.o
+ .bss           0x0000000000000000        0x0 startup_ht32f5xxxx_gcc_01.o
+ .text          0x0000000000000000        0x0 syscalls.o
+ .data          0x0000000000000000        0x0 syscalls.o
+ .bss           0x0000000000000000        0x0 syscalls.o
+ .text._sbrk    0x0000000000000000        0x8 syscalls.o
+ .text.link     0x0000000000000000        0x6 syscalls.o
+ .text._close   0x0000000000000000        0x6 syscalls.o
+ .text._fstat   0x0000000000000000        0xa syscalls.o
+ .text._isatty  0x0000000000000000        0x4 syscalls.o
+ .text._lseek   0x0000000000000000        0x4 syscalls.o
+ .text._read    0x0000000000000000        0x4 syscalls.o
+ .text._write   0x0000000000000000        0x4 syscalls.o
+ .text.unlikely.abort
+                0x0000000000000000        0x2 syscalls.o
+ .debug_info    0x0000000000000000      0x4fa syscalls.o
+ .debug_abbrev  0x0000000000000000      0x12a syscalls.o
+ .debug_loc     0x0000000000000000      0x128 syscalls.o
+ .debug_aranges
+                0x0000000000000000       0x60 syscalls.o
+ .debug_ranges  0x0000000000000000       0x50 syscalls.o
+ .debug_line    0x0000000000000000      0x1e9 syscalls.o
+ .debug_str     0x0000000000000000      0x34a syscalls.o
+ .comment       0x0000000000000000       0x34 syscalls.o
+ .debug_frame   0x0000000000000000       0xa0 syscalls.o
+ .ARM.attributes
+                0x0000000000000000       0x2c syscalls.o
+ .text          0x0000000000000000        0x0 system_ht32f5xxxx_02.o
+ .data          0x0000000000000000        0x0 system_ht32f5xxxx_02.o
+ .bss           0x0000000000000000        0x0 system_ht32f5xxxx_02.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x74 system_ht32f5xxxx_02.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 system_ht32f5xxxx_02.o
+ .text          0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .debug_line    0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .debug_str     0x0000000000000000       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_sqi.o)
+ .text          0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .debug_line    0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .debug_str     0x0000000000000000       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .text          0x0000000000000000      0x114 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_line    0x0000000000000000       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_str     0x0000000000000000       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .text          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000000       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x0000000000000000       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000      0x100 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000       0xc3 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x1e2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x81a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1ba /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x16b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x521 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000      0x102 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x46 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000       0xef /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x1da /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000       0x64 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x863 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x151 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000       0xe4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x557 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000       0xd0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000       0x8c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x269 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x1bd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x203 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x201 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x290 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xfc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0x249 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x179 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x273 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x219 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x254 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000100000 xr
+RAM              0x0000000020000000 0x0000000000100000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD ht32_board.o
+LOAD ht32_cm0plus_misc.o
+LOAD ht32_retarget.o
+LOAD ht32_serial.o
+LOAD ht32f5xxxx_01_it.o
+LOAD ht32f5xxxx_adc.o
+LOAD ht32f5xxxx_bftm.o
+LOAD ht32f5xxxx_ckcu.o
+LOAD ht32f5xxxx_crc.o
+LOAD ht32f5xxxx_div.o
+LOAD ht32f5xxxx_exti.o
+LOAD ht32f5xxxx_flash.o
+LOAD ht32f5xxxx_gpio.o
+LOAD ht32f5xxxx_i2c.o
+LOAD ht32f5xxxx_mctm.o
+LOAD ht32f5xxxx_pdma.o
+LOAD ht32f5xxxx_pwrcu.o
+LOAD ht32f5xxxx_rstcu.o
+LOAD ht32f5xxxx_rtc.o
+LOAD ht32f5xxxx_spi.o
+LOAD ht32f5xxxx_tm.o
+LOAD ht32f5xxxx_usart.o
+LOAD ht32f5xxxx_wdt.o
+LOAD main.o
+LOAD printf.o
+LOAD startup_ht32f5xxxx_gcc_01.o
+LOAD syscalls.o
+LOAD system_ht32f5xxxx_02.o
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+
+.isr_vector     0x0000000000000000       0xc0
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xc0 startup_ht32f5xxxx_gcc_01.o
+                0x0000000000000000                __interrupt_vector_cortex_m
+                0x00000000000000c0                . = ALIGN (0x4)
+
+.text           0x00000000000000c0      0x540
+                0x00000000000000c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000000000c0       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x0000000000000158       0x44 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+                0x0000000000000158                __libc_init_array
+ .text          0x000000000000019c       0xa8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+                0x000000000000019c                memset
+ *(.text*)
+ .text.NMI_Handler
+                0x0000000000000244        0x2 ht32f5xxxx_01_it.o
+                0x0000000000000244                NMI_Handler
+ *fill*         0x0000000000000246        0x2 
+ .text.HardFault_Handler
+                0x0000000000000248       0x10 ht32f5xxxx_01_it.o
+                0x0000000000000248                HardFault_Handler
+ .text.SVC_Handler
+                0x0000000000000258        0x2 ht32f5xxxx_01_it.o
+                0x0000000000000258                SVC_Handler
+ .text.PendSV_Handler
+                0x000000000000025a        0x2 ht32f5xxxx_01_it.o
+                0x000000000000025a                PendSV_Handler
+ .text.SysTick_Handler
+                0x000000000000025c        0x2 ht32f5xxxx_01_it.o
+                0x000000000000025c                SysTick_Handler
+ *fill*         0x000000000000025e        0x2 
+ .text.CKCU_PeripClockConfig
+                0x0000000000000260       0x38 ht32f5xxxx_ckcu.o
+                0x0000000000000260                CKCU_PeripClockConfig
+ .text.GPIO_DirectionConfig
+                0x0000000000000298       0x12 ht32f5xxxx_gpio.o
+                0x0000000000000298                GPIO_DirectionConfig
+ .text.GPIO_PullResistorConfig
+                0x00000000000002aa       0x20 ht32f5xxxx_gpio.o
+                0x00000000000002aa                GPIO_PullResistorConfig
+ .text.GPIO_SetOutBits
+                0x00000000000002ca        0x4 ht32f5xxxx_gpio.o
+                0x00000000000002ca                GPIO_SetOutBits
+ .text.GPIO_ClearOutBits
+                0x00000000000002ce        0x4 ht32f5xxxx_gpio.o
+                0x00000000000002ce                GPIO_ClearOutBits
+ .text.GPIO_WriteOutBits
+                0x00000000000002d2        0xc ht32f5xxxx_gpio.o
+                0x00000000000002d2                GPIO_WriteOutBits
+ *fill*         0x00000000000002de        0x2 
+ .text.AFIO_GPxConfig
+                0x00000000000002e0       0x54 ht32f5xxxx_gpio.o
+                0x00000000000002e0                AFIO_GPxConfig
+ .text.GPIO_Configuration
+                0x0000000000000334       0x54 main.o
+                0x0000000000000334                GPIO_Configuration
+ .text.GPIO_OutputBit
+                0x0000000000000388       0x34 main.o
+                0x0000000000000388                GPIO_OutputBit
+ .text.startup.main
+                0x00000000000003bc        0xc main.o
+                0x00000000000003bc                main
+ .text.Reset_Handler
+                0x00000000000003c8       0xe8 startup_ht32f5xxxx_gcc_01.o
+                0x00000000000003c8                Reset_Handler
+                0x000000000000046c                I2C0_IRQHandler
+                0x000000000000046c                PWM1_IRQHandler
+                0x000000000000046c                I2C1_IRQHandler
+                0x000000000000046c                UART1_IRQHandler
+                0x000000000000046c                SCI_IRQHandler
+                0x000000000000046c                UART0_IRQHandler
+                0x000000000000046c                SPI1_IRQHandler
+                0x000000000000046c                LVD_BOD_IRQHandler
+                0x000000000000046c                EXTI2_3_IRQHandler
+                0x000000000000046c                I2S_IRQHandler
+                0x000000000000046c                I2C2_IRQHandler
+                0x000000000000046c                PDMA_CH2_5_IRQHandler
+                0x000000000000046c                RTC_IRQHandler
+                0x000000000000046c                BFTM1_IRQHandler
+                0x000000000000046c                GPTM1_IRQHandler
+                0x000000000000046c                USART0_IRQHandler
+                0x000000000000046c                GPTM0_IRQHandler
+                0x000000000000046c                UART2_IRQHandler
+                0x000000000000046c                EXTI4_15_IRQHandler
+                0x000000000000046c                Default_Handler
+                0x000000000000046c                ADC_IRQHandler
+                0x000000000000046c                EXTI0_1_IRQHandler
+                0x000000000000046c                USB_IRQHandler
+                0x000000000000046c                MIDI_IRQHandler
+                0x000000000000046c                PDMA_CH0_1_IRQHandler
+                0x000000000000046c                SCTM1_IRQHandler
+                0x000000000000046c                COMP_IRQHandler
+                0x000000000000046c                EVWUP_IRQHandler
+                0x000000000000046c                PWM0_IRQHandler
+                0x000000000000046c                MCTM0_IRQHandler
+                0x000000000000046c                BFTM0_IRQHandler
+                0x000000000000046c                SPI0_IRQHandler
+                0x000000000000046c                AES_IRQHandler
+                0x000000000000046c                SCTM0_IRQHandler
+                0x000000000000046c                FLASH_IRQHandler
+                0x000000000000046c                USART1_IRQHandler
+                0x000000000000046c                SCTM2_IRQHandler
+                0x000000000000046c                UART3_IRQHandler
+                0x000000000000046c                SCTM3_IRQHandler
+                0x000000000000046c                QSPI_IRQHandler
+ .text.SystemInit
+                0x00000000000004b0      0x138 system_ht32f5xxxx_02.o
+                0x00000000000004b0                SystemInit
+ *(.glue_7)
+ .glue_7        0x00000000000005e8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000000005e8        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00000000000005e8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x00000000000005e8        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x00000000000005e8                _init
+ .init          0x00000000000005ec        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x00000000000005f4        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x00000000000005f4                _fini
+ .fini          0x00000000000005f8        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x0000000000000600                . = ALIGN (0x4)
+                0x0000000000000600                _etext = .
+
+.vfp11_veneer   0x0000000000000600        0x0
+ .vfp11_veneer  0x0000000000000600        0x0 linker stubs
+
+.v4_bx          0x0000000000000600        0x0
+ .v4_bx         0x0000000000000600        0x0 linker stubs
+
+.iplt           0x0000000000000600        0x0
+ .iplt          0x0000000000000600        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.rel.dyn        0x0000000000000600        0x0
+ .rel.iplt      0x0000000000000600        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.rodata         0x0000000000000600        0x0
+                0x0000000000000600                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0000000000000600                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000000000600        0x0
+                0x0000000000000600                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000000000600                __exidx_end = .
+
+.preinit_array  0x0000000000000600        0x0
+                0x0000000000000600                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000000000600                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000000600        0x4
+                0x0000000000000600                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000000000600        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000000000604                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000000604        0x4
+                0x0000000000000604                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000000000604        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000000000608                PROVIDE (__fini_array_end = .)
+                0x0000000000000608                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000        0x0 load address 0x0000000000000608
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+
+.tm_clone_table
+                0x0000000020000000        0x0 load address 0x0000000000000608
+ .tm_clone_table
+                0x0000000020000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x0000000020000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+
+.igot.plt       0x0000000020000000        0x0 load address 0x0000000000000608
+ .igot.plt      0x0000000020000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000020000000                . = ALIGN (0x4)
+
+.bss            0x0000000020000000       0x20 load address 0x0000000000000608
+                0x0000000020000000                _sbss = .
+                0x0000000020000000                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000000       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.gIsContinue.0
+                0x000000002000001c        0x4 ht32f5xxxx_01_it.o
+ *(COMMON)
+                0x0000000020000020                . = ALIGN (0x4)
+                0x0000000020000020                _ebss = .
+                0x0000000020000020                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000020      0x200 load address 0x0000000000000608
+ *(.heap)
+ .heap          0x0000000020000020        0x0 startup_ht32f5xxxx_gcc_01.o
+                0x0000000020000020                __HeapBase
+                0x0000000020000020                __HeapLimit
+                0x0000000020000020                __HT_check_heap
+                0x0000000020000020                _end
+ *(.stack)
+ .stack         0x0000000020000020      0x200 startup_ht32f5xxxx_gcc_01.o
+                0x0000000020000020                __HT_check_sp
+                0x0000000020000020                __StackLimit
+                0x0000000020000220                __StackTop
+                0x0000000020000220                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x2c ht32f5xxxx_01_it.o
+ .ARM.attributes
+                0x0000000000000076       0x2c ht32f5xxxx_ckcu.o
+ .ARM.attributes
+                0x00000000000000a2       0x2c ht32f5xxxx_gpio.o
+ .ARM.attributes
+                0x00000000000000ce       0x2c main.o
+ .ARM.attributes
+                0x00000000000000fa       0x22 startup_ht32f5xxxx_gcc_01.o
+ .ARM.attributes
+                0x000000000000011c       0x2c system_ht32f5xxxx_02.o
+ .ARM.attributes
+                0x0000000000000148       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000174       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001a0       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000000001cc       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(ph_ht32_blynk_fw.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 ht32f5xxxx_01_it.o
+ .comment       0x0000000000000033       0x34 ht32f5xxxx_ckcu.o
+ .comment       0x0000000000000033       0x34 ht32f5xxxx_gpio.o
+ .comment       0x0000000000000033       0x34 main.o
+ .comment       0x0000000000000033       0x34 system_ht32f5xxxx_02.o
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+
+.debug_info     0x0000000000000000     0x3e0e
+ .debug_info    0x0000000000000000      0x104 ht32f5xxxx_01_it.o
+ .debug_info    0x0000000000000104     0x1518 ht32f5xxxx_ckcu.o
+ .debug_info    0x000000000000161c     0x16d3 ht32f5xxxx_gpio.o
+ .debug_info    0x0000000000002cef      0x975 main.o
+ .debug_info    0x0000000000003664      0x553 system_ht32f5xxxx_02.o
+ .debug_info    0x0000000000003bb7      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_info    0x0000000000003cd1      0x13d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+
+.debug_abbrev   0x0000000000000000      0xc90
+ .debug_abbrev  0x0000000000000000       0xb2 ht32f5xxxx_01_it.o
+ .debug_abbrev  0x00000000000000b2      0x383 ht32f5xxxx_ckcu.o
+ .debug_abbrev  0x0000000000000435      0x382 ht32f5xxxx_gpio.o
+ .debug_abbrev  0x00000000000007b7      0x23b main.o
+ .debug_abbrev  0x00000000000009f2      0x11e system_ht32f5xxxx_02.o
+ .debug_abbrev  0x0000000000000b10       0xcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000bdc       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+
+.debug_aranges  0x0000000000000000      0x2b0
+ .debug_aranges
+                0x0000000000000000       0x28 ht32f5xxxx_01_it.o
+ .debug_aranges
+                0x0000000000000028      0x118 ht32f5xxxx_ckcu.o
+ .debug_aranges
+                0x0000000000000140       0xd8 ht32f5xxxx_gpio.o
+ .debug_aranges
+                0x0000000000000218       0x30 main.o
+ .debug_aranges
+                0x0000000000000248       0x28 system_ht32f5xxxx_02.o
+ .debug_aranges
+                0x0000000000000270       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000290       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+
+.debug_ranges   0x0000000000000000      0x280
+ .debug_ranges  0x0000000000000000       0x18 ht32f5xxxx_01_it.o
+ .debug_ranges  0x0000000000000018      0x108 ht32f5xxxx_ckcu.o
+ .debug_ranges  0x0000000000000120       0xc8 ht32f5xxxx_gpio.o
+ .debug_ranges  0x00000000000001e8       0x80 main.o
+ .debug_ranges  0x0000000000000268       0x18 system_ht32f5xxxx_02.o
+
+.debug_line     0x0000000000000000     0x1b61
+ .debug_line    0x0000000000000000       0xc9 ht32f5xxxx_01_it.o
+ .debug_line    0x00000000000000c9      0x8c7 ht32f5xxxx_ckcu.o
+ .debug_line    0x0000000000000990      0x894 ht32f5xxxx_gpio.o
+ .debug_line    0x0000000000001224      0x21e main.o
+ .debug_line    0x0000000000001442      0x42a system_ht32f5xxxx_02.o
+ .debug_line    0x000000000000186c      0x127 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_line    0x0000000000001993      0x1ce /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+
+.debug_str      0x0000000000000000     0x17ec
+ .debug_str     0x0000000000000000      0x1b1 ht32f5xxxx_01_it.o
+                                        0x1ea (size before relaxing)
+ .debug_str     0x00000000000001b1      0xdb9 ht32f5xxxx_ckcu.o
+                                        0xff6 (size before relaxing)
+ .debug_str     0x0000000000000f6a      0x4f8 ht32f5xxxx_gpio.o
+                                        0x883 (size before relaxing)
+ .debug_str     0x0000000000001462       0x49 main.o
+                                        0x4c2 (size before relaxing)
+ .debug_str     0x00000000000014ab      0x132 system_ht32f5xxxx_02.o
+                                        0x38b (size before relaxing)
+ .debug_str     0x00000000000015dd      0x169 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+                                        0x204 (size before relaxing)
+ .debug_str     0x0000000000001746       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+                                        0x1b9 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x5f8
+ .debug_frame   0x0000000000000000       0x60 ht32f5xxxx_01_it.o
+ .debug_frame   0x0000000000000060      0x290 ht32f5xxxx_ckcu.o
+ .debug_frame   0x00000000000002f0      0x200 ht32f5xxxx_gpio.o
+ .debug_frame   0x00000000000004f0       0x60 main.o
+ .debug_frame   0x0000000000000550       0x4c system_ht32f5xxxx_02.o
+ .debug_frame   0x000000000000059c       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000000005c8       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)
+
+.debug_loc      0x0000000000000000     0x166e
+ .debug_loc     0x0000000000000000      0x965 ht32f5xxxx_ckcu.o
+ .debug_loc     0x0000000000000965      0x7cc ht32f5xxxx_gpio.o
+ .debug_loc     0x0000000000001131       0xfa main.o
+ .debug_loc     0x000000000000122b      0x108 system_ht32f5xxxx_02.o
+ .debug_loc     0x0000000000001333       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_loc     0x00000000000013cb      0x2a3 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(lib_a-memset.o)

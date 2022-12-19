@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.md": "markdown",
+        "ht32f5xxxx_01.h": "c",
+        "ht32.h": "c",
+        "ht32_board.h": "c",
+        "ht32_board_config.h": "c",
+        "timeout.h": "c",
+        "mb.h": "c",
+        "portcritical.h": "c",
+        "function.h": "c",
+        "mbport.h": "c",
+        "shtcx.h": "c",
+        "bh1750.h": "c",
+        "types.h": "c",
+        "cstdio": "c",
+        "sht3x.h": "c",
+        "uart_user.h": "c",
+        "stdio.h": "c"
+    }
+}

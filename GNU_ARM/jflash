@@ -1,0 +1,8 @@
+device HT32F52253
+-e si 1
+speed 1000
+-e r 
+LoadFile ph_ht32_blynk_fw.bin
+-e r
+g
+qc

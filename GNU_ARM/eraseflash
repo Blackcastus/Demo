@@ -1,0 +1,9 @@
+device HT32F52253
+si 1
+speed 1000
+Erase
+r 
+LoadFile ph_ht32_light_temp_humi_transmitter_fw.hex
+r
+g
+qc

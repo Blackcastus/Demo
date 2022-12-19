@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/utilities",
+                "${workspaceFolder}/library/HT32F5xxxx_Driver/inc",
+                "${workspaceFolder}/library/Device/Holtek/HT32F5xxxx/Include",
+                "${workspaceFolder}/library/CMSIS/Include",
+                "${workspaceFolder}/Inc",
+                "${workspaceFolder}/utilities/common",
+                "${workspaceFolder}/utilities/middleware/FreeModbus/include",
+                "${workspaceFolder}/utilities/middleware/FreeModbus/port",
+                "${workspaceFolder}/utilities/middleware/FreeModbus",
+                "${workspaceFolder}/utilities/middleware/FreeModbus/app",
+                "${workspaceFolder}/BSP/BH1750",
+                "${workspaceFolder}/BSP/SHT3x",
+                "${workspaceFolder}/BSP/gpioUser",
+                "${workspaceFolder}/BSP/timerUser",
+                "${workspaceFolder}/BSP/uartUser",
+                "${workspaceFolder}/BSP/WDTUser",
+                "${workspaceFolder}/Application"
+            ],
+            "defines": [
+                "USE_HT32F52354_SK",
+                "USE_HT32_DRIVER",
+                "USE_HT32F52243_53",
+                "USE_MEM_HT32F52253"
+
+            ],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
